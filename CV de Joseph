@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<htlm>
+<head> 
+    <meta charset="UTF-8">
+    <title> Mon CV</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header>
+        <p> <strong> CURRICULUM VITAE</strong></p>
+    </header>
+    <nav>
+        <div class="imag">
+         <h1> Mon identité</h1>
+        <img src="c:\Users\ADMIN\Pictures\joseph.jpg  width="60">
+    </div>
+        <section>
+        <ul> 
+            <li> <strong> Nom :</strong>BAHN'GOI </li>
+            <li> <strong> Prénom:</strong> Joseph</li>
+            <li> <strong> Date de naissance : </strong> 04 Avril 2006</li>
+            <li> <strong> Lieu de naissance :</strong>à Tobré</li>
+            <li> <strong> Nationalité :</strong> Béninoise</li>
+            <li> <strong> Addresse :</strong> Abomey-Calavi</li>
+            <li> <strong> Téléphone :</strong> +229 98 65 57 05</li>
+            <li> <strong> Email :</strong> bahngoij@gmail.com</li>
+        </ul>
+        </div>
+    
+    </section>
+    <hr>
+    <div class="Profil">
+        <h1> <strong><mark>Profil</mark></strong></h1>
+        <!----->
+          Jeune motivé,sérieux et dynamique,titulaire du Baccalauréat.Je souhaite mettre mes compétences au service d'une entreprise 
+            afin d'acquérir de l'expérience professionnelle et contribuer efficacement à son développement</li>
+        
+        <ul></ul>
+         <h2><strong><mark> formation</mark></strong></h2>
+         <li> <strong>Baccalauréat(BAC)</strong>- 2025</li>
+         <li> <strong>Brevet d'Etudes du Premier Cycle(BEPC)</strong> - 2021</li>
+         <li><strong>Certificat d'Etudes Primaires(CEP)</strong> - 2018</li>
+         <li> Etudiant  en SIL à ESCAE , licence1 - 2026 </li>
+        
+         <h3><strong><mark> Competence</mark></strong></h3>
+         <li> Utilisation basique de l'ordinateur</li>
+         <li> Bonne capacité d' apprentissage</li>
+         <li>Sens de l'organisation </li>
+         <li> Travail en équipe</li>
+        
+         
+            <h4><strong> <mark>Langues</mark></strong></h4>
+            <li> Français</li>
+            <li> Baatonu(Bariba)</li>
+        
+            <h5> <strong><mark>Centre d'intérêt</mark></strong></h5>
+            <ul>
+            <li> Lecture</li>
+            <li> Internet et nouvelles technologies</li>
+            </ul>
+        </div>
+         </ul>
+    
+</body> 
+</htlm>
