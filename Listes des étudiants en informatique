@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>ESCAE BENIN</title>
+
+
+</head>
+<body>
+    <p>
+       <h1> La liste des étudiants en informatique à ESCAE BENIN </h1>
+    </p>
+        <ol>
+            <li> NONHOUEGNON Filbert en <strong>SIL</strong> a 21 ans <mark> masslalegende@gmail.com</mark>  Tel 0146134719   </li>
+            <li> ATCHADE Carène   en <strong>SIL</strong>  a 20 ans <mark> careneatchade@gmail.com</mark> </li>
+            <li>ALLIDJINOU Cedric en <strong>SIL</strong> a 21 ans <mark>allidjinoucedric123@gmail.com </mark> Tel 51932673</li>
+            <li> HOUNKARIN Daniel en <strong>SIL</strong> a 20 ans <mark> danielhounk@gmail.com</mark> Tel 0147074131</li>
+            <li> OGOUMIWA Samuel  en <strong>SIL</strong> a 20 ans <mark> samuelogoumiwa@gmail.com</mark>  Tel 98442622</li>
+            <li> ACHIDI Arsène    en <strong>SI></strong> a 19 ans <mark>arseneatchidi@gmail.com </mark> Tel 0169710447 </li>
+            <li> HOUNKPE Cathérine en <strong>SIL</strong> a 25 ans<mark>catherine@gmail.com</mark> Tel 0143251052</li>
+            <li> AGONDO Sévérin   en <strong>SIL</strong> a 22 ans <mark> agondoseverin83@gmail.com</mark>Tel 43111386 </li>
+            <li> ADIBA Dès Gracias en <strong>SIL</strong> a 19 ans <mark>desgraciasguyadiba@gmail.com</mark> Tel 0163870103</li>
+            <li> HONDI Mathieu en <strong> SIL</strong> a 17 ans <mark> mathieuhondi@gmail.com</mark>Tel 0193443432 </li>
+            <li> KEBI Elisé en <strong>SIL</strong> a 18 ans <mark> elisekebi354@g.mail.com</mark>  Tel 0147156718</li>
+            <li> VIGNON D. Germain en <strong> SI</strong> a 23 ans <mark>kanzealiyohoun@gmail.com</mark> Tel 0160333831</li>
+            <li> HOUIDO Sessi Ange en <strong>SI</strong> a 19 ans <mark>sessiange@gmail.com</mark> Tel 0162723462 </li>
+            <li> BADA Orline Folaké en <strong>SIL</strong> a 19 ans<mark> badaorline5@gmail.com</mark> Tel 0197967317</li>
+            <li> AHISSOU KarL Fulgors en <strong>SI</strong> a 18 ans <mark> karlahissou229@gmail.com </mark> Tel 0159047804</li>
+            <li> ADDA Kenneth en <strong> SI</strong> a 18 ans <mark> kennethadda7@gmail.com</mark> Tel 0157958623 </li>
+            <li> GOHOUNGO Nasrallah en <strong>SIL</strong> a  16 ans<mark> nasrallahgohoungo@gmail.com</mark>Tel 0196385607 </li>
+            <li> ADJOLOHOUN Herwane Matéo en <strong> SIL</strong> a 17 ans <mark> adjnat12@gmail.com</mark> Tel 0194102141</li>
+            <li> BAHN'GOI Joseph en <strong> SIL</strong> a 20 ans <mark> bahngoij@gmail.com</mark> Tel 0198655705</li>
+            <li> RUSTICO  Charbel  en <strong> IA</strong> a 18 ans <mark> cotisuseusebio@gmail.com</mark> Tel 0154058025<li>
+
+        </ol>
+</body>
